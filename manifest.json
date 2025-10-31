@@ -1,0 +1,11 @@
+{
+	"id": "pdf-embed",
+	"name": "PDF Embed",
+	"version": "1.2.0",
+	"minAppVersion": "0.15.0",
+	"description": "A plugin to embed PDF documents into markdown notes.",
+	"author": "Shaun Dunmall and Mark Price",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
