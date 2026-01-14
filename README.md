@@ -1,8 +1,8 @@
-# Obsidian PDF Embed Plugin
+# Obsidian PDF Embed 
 
-A plugin to embed PDF documents into markdown notes.
+Embed PDF documents into markdown notes.
 
-This plugin allows you to easily embed PDF documents into your Obsidian notes. It provides several commands to streamline your workflow and offers a variety of settings for customization.
+Allows you to easily embed PDF documents into your Obsidian notes. It provides several commands to streamline your workflow and offers a variety of settings for customization.
 
 ## Features
 
